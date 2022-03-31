@@ -1,0 +1,22 @@
+{
+	"order": {
+		"id": 3,
+		"firstName": "Ден",
+		"lastName": "Ден",
+		"address": "Астрахань",
+		"metroStation": "2",
+		"phone": "+79275677747",
+		"rentTime": 2,
+		"deliveryDate": "2022-03-15T20:00:00.000Z",
+		"track": 172503,
+		"color": [],
+		"comment": "",
+		"cancelled": false,
+		"finished": false,
+		"inDelivery": false,
+		"createdAt": "2022-03-10T07:34:08.568Z",
+		"updatedAt": "2022-03-10T07:59:33.253Z",
+		"courierFirstName": "saskachevan",
+		"status": 3
+	}
+}
